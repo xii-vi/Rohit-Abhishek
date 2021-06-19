@@ -1,7 +1,5 @@
-# portfolio
+# WHAT IF
 
-### This is about me and some details about me.
+### Some Crazy What if random stories.
 
-1. education - B.tech Civil
-2. Hobby - Alot of them.
-3. Likes -  Movies, Games, Songs, New things.
+Totally fan made.
