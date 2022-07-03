@@ -14,7 +14,7 @@
 - 🌱 Becoming better day by day.
 
 <h3>Find out about my professional life here:</h3>
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/rohitabhishek?style=for-the-badge)](https://peerlist.io/rohitabhishek)
+<a href="https://peerlist.io/rohitabhishek"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:rohitabhishek318@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
